@@ -1,6 +1,6 @@
-## Steve Juneyoung Kang @stevejkang
+## David Mochoge @kokodavid
 
-[![Status](https://img.shields.io/badge/status-employed%20-brightgreen.svg)](https://github.com/stevejkang)
+[![Status](https://img.shields.io/badge/status-employed%20-brightgreen.svg)](https://github.com/kokodavid)
 [![Linkedin](https://img.shields.io/badge/-iam--stevejkang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iam-stevejkang/)](https://www.linkedin.com/in/iam-stevejkang/)
 [![Gmail](https://img.shields.io/badge/-iam@juneyoung.io-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:iam@juneyoung.io)](mailto:iam@juneyoung.io)
 [![Facebook](https://img.shields.io/badge/-stevejkang-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/stevejkang)](https://www.facebook.com/stevejkang)
