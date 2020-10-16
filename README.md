@@ -1,8 +1,8 @@
 ## David Mochoge @kokodavid
 
 [![Status](https://img.shields.io/badge/status-employed%20-brightgreen.svg)](https://github.com/kokodavid)
-[![Linkedin](https://img.shields.io/badge/-iam--stevejkang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidmochoge/)](https://www.linkedin.com/in/davidmochoge/)
-[![Gmail](https://img.shields.io/badge/-iam@juneyoung.io-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:david.mo.okoko@gmail.com)](mailto:david.mo.okoko@gmail.com)
+[![Linkedin](https://img.shields.io/badge/davidmochoge-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidmochoge/)](https://www.linkedin.com/in/davidmochoge/)
+[![Gmail](https://img.shields.io/badge/-david.mo.okoko@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:david.mo.okoko@gmail.com)](mailto:david.mo.okoko@gmail.com)
 
 
 👋 Hello! I am a junior back-end developer, who working at mobility start-up, TeamO2. I experienced e-commerce, O2O platform services, and involved in both front-end and back-end. Also have done development and deployment of the production service well aware of cloud infrastructure such as AWS.
