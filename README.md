@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-david.mo.okoko@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:david.mo.okoko@gmail.com)](mailto:david.mo.okoko@gmail.com)
 
 
-👋 Hello!I am a passionate and a self driven Android developer. Possessing well developed Mobile Applications.I have a customer-focused approach to work and focused towards completion of projects
+👋 Hello!I am a passionate and a self driven Mobile developer. Possessing well developed Mobile Applications.I have a customer-focused approach to work and focused towards completion of projects
 
 ### 💼 Career
 - Developer at Ignite Binary Ltd  ~ January 2020 to present 
@@ -15,9 +15,9 @@
 ### 💻 Languages
 - Java 
 - Dart 
-- Typescript (beginner)
+- Typescript 
 - Javascript
 
-[![David's github stats](https://github-readme-stats.vercel.app/api?username=kokodavid&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/stevejkang)
+[![David's github stats](https://github-readme-stats.vercel.app/api?username=kokodavid&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kokodavid)
 
-> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstevejkang%2Fstevejkang)](https://github.com/stevejkang/stevejkang)
+>
