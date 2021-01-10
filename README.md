@@ -15,6 +15,7 @@
 ### 💻 Languages
 - Java 
 - Dart 
+- Kotlin
 - Typescript 
 - Javascript
 
