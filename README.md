@@ -7,11 +7,6 @@
 
 👋 Hello!I am a passionate and a self driven Mobile developer.
 
-### 💼 Career
-- Developer at Ignite Binary Ltd  ~ January 2020 to present 
-- Junior Mobile Developer at Anomaly Ltd ~ July 2019 to January 2020
-
-
 ### 💻 Languages
 - Java 
 - Dart 
