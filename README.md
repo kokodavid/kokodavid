@@ -5,9 +5,10 @@
 [![Gmail](https://img.shields.io/badge/-david.mo.okoko@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:david.mo.okoko@gmail.com)](mailto:david.mo.okoko@gmail.com)
 
 
-👋 Hello!I am a passionate and a self driven Mobile developer.
+👋 Hello!I am a Mobile developer.
 
 ### 💻 Languages
+- Swift
 - Java 
 - Dart 
 - Kotlin
