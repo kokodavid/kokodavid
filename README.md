@@ -1,6 +1,5 @@
 ## David Mochoge @kokodavid
 
-[![Status](https://img.shields.io/badge/status-employed%20-brightgreen.svg)](https://github.com/kokodavid)
 [![Linkedin](https://img.shields.io/badge/davidmochoge-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidmochoge/)](https://www.linkedin.com/in/davidmochoge/)
 [![Gmail](https://img.shields.io/badge/-david.mo.okoko@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:david.mo.okoko@gmail.com)](mailto:david.mo.okoko@gmail.com)
 
