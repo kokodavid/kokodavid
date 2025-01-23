@@ -7,8 +7,6 @@
 👋 Hello!I am a Mobile developer.
 
 ### 💻 Languages
-- Swift
-- Java 
 - Dart 
 - Kotlin
 - Typescript 
